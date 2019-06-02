@@ -6,11 +6,11 @@ int div(int,int);
 
 int main ()
 {
-  int a,b,first,second,op;
+  int a,b,op;
   printf ("enter first number");
-  scanf ("%d",&first);
+  scanf ("%d",&a);
   printf ("enter second number");
-  scanf ("%d",&second);
+  scanf ("%d",&b);
   printf ("enter the operator like 1 for add and so on");
   scanf ("%d",&op);
   //printf ("%d\n",first);
